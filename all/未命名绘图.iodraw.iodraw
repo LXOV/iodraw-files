@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m9esbPojvJFIGBNgpho7-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="m9esbPojvJFIGBNgpho7-1" target="m9esbPojvJFIGBNgpho7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m9esbPojvJFIGBNgpho7-1" value="可视化个人日程安排系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="180" height="34" as="geometry" />
         </mxCell>
@@ -12,16 +15,6 @@
         </mxCell>
         <mxCell id="m9esbPojvJFIGBNgpho7-4" value="普通用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="150" width="93" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="m9esbPojvJFIGBNgpho7-11" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="m9esbPojvJFIGBNgpho7-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="279" y="162" as="sourcePoint" />
-            <mxPoint x="329" y="112" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="157" y="135" />
-              <mxPoint x="330" y="135" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="m9esbPojvJFIGBNgpho7-13" value="&lt;pre&gt;首页&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="37" y="219" width="53" height="173" as="geometry" />
