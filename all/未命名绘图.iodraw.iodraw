@@ -29,8 +29,8 @@
             <mxPoint x="329" y="118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m9esbPojvJFIGBNgpho7-13" value="首页" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="37" y="219" width="120" height="60" as="geometry" />
+        <mxCell id="m9esbPojvJFIGBNgpho7-13" value="&lt;pre&gt;首页&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="37" y="219" width="53" height="214" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
