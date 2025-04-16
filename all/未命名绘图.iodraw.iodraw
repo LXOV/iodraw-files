@@ -35,6 +35,9 @@
         <mxCell id="m9esbPojvJFIGBNgpho7-14" value="&lt;pre&gt;新闻资讯&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="131" y="219" width="53" height="173" as="geometry" />
         </mxCell>
+        <mxCell id="m9esbPojvJFIGBNgpho7-15" value="&lt;pre&gt;新闻资讯&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="141" y="229" width="53" height="173" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
